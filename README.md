@@ -1,5 +1,5 @@
 <h1> Digital Transformation of a small business </h1>
-<h2>Scenario</h2>
+<h2>Description of scenario</h2>
 Sam’s Scoops is struggling to meet the demand for its products and needs to modernize some areas of the business to keep up. You will combine the skills and knowledge that you applied throughout the course and use them to create a digital transformation expansion plan for them. This will include exploring and suggesting cloud technologies, suggesting additional network devices and creating an extended network diagram.
 
 <h2> Instructions </h2>
